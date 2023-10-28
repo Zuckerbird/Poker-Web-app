@@ -1,7 +1,7 @@
 # Poker-Web-app
 
 ポーカーアプリ
-web アプリで作成
+web アプリとして作成
 言語 Java
 画面 React
 
