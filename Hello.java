@@ -1,4 +1,4 @@
-//githubテスト用プログラム
+//githubテスト用プログラムaaaa
 class Hello{
   public static void main(String[] args){
     int num = 0;
